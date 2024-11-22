@@ -1,54 +1,89 @@
-<h2 align="left">Hi 👋! My name is Sarthak Srivastava and I'm a Student, from BVPCOEP.</h2>
+# 💻 Sarthak Srivastava | **barrysarthak**  
 
-###
+Hi there! 👋 Welcome to my GitHub profile. I'm a 3rd-year student based in Pune with a passion for **Python, Data Structures, Algorithms, Machine Learning**, and **Deep Learning**. When I'm not writing code, I teach DSA, or work on enhancing projects that make an impact. I am also currently working at Coding Ninjas as a Teaching Assistant where I teach Python and DSA for over an year and solved more than 1000 questions in DSA.
+
+---
+
+## 🚀 **About Me**  
+
+- **🌟 Passionate about:**  
+  - Building intuitive tools like `OptiBlend`, a GUI for code analysis.  
+  - Distributed Database Systems and Transaction Management research.  
+  - Machine Learning and Deep Learning, with projects like the **Mental Health NLP Project**.  
+
+- **💼 Professional Experience:**  
+  - **Teaching Assistant** for Python and DSA at **Coding Ninjas**.  
+
+- **💼 Freelance Work:**  
+  - **Model Building** using Python, machine learning, and deep learning techniques.  
+
+- **🛠️ Tech Interests:**  
+  - Machine Learning and Deep Learning.  
+  - Algorithm Optimization and Code Performance.  
+  - Developing mobile and desktop apps with modern technologies.  
+
+---
+
+## 📂 **Highlighted Projects**  
+
+### 🧠 [Brain Tumor Classification](https://github.com/barrysarthak/Brain-Tumor-Classification)  
+A deep learning model to classify brain tumors using advanced CNN architectures.
+
+### 🤖 [Mental Health NLP](https://github.com/barrysarthak/Mental-Health-nlp-project)  
+Leveraging NLP techniques to improve mental health support systems.  
+
+### 👁️ [Diabetic Retinopathy](https://github.com/barrysarthak/Diabetic-Retinopathy)  
+A machine learning project focused on diagnosing diabetic retinopathy from retinal images.  
+
+---
+
+## 🛠️ **Languages and Tools**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4285F4?style=for-the-badge&logo=web&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC107?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+
+---
+
+
+## 🌐 **Connect With Me**  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barrysarthak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barrysarthak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.linkedin.com/in/sarthak-srivastava-15265a248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discordapp.com/users/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://www.kaggle.com/barrysarthak" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://x.com/Barrysarthak" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="mailto:barrysarthak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.kaggle.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+  <a href="https://www.instagram.com/barrysarthak/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/barrysarthak/barrysarthak/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
+
+---
+
+## 📈 **GitHub Stats**  
+
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrysarthak&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrysarthak&layout=compact&theme=radical)  
+
+---
+
+> **_"Code is like humor. When you have to explain it, it’s bad."_**  
+> _– Cory House_
